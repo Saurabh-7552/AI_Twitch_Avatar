@@ -1,0 +1,4 @@
+.env
+.idea/
+.tio.tokens.json
+.cursor/
